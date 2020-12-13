@@ -1,0 +1,22 @@
+{
+  "name": "boilerplate-codeshare-react",
+  "version": "1.0.0",
+  "description": "Template to start applications using React JS and React Native using concepts of clean architecture and code sharing",
+  "main": "index.js",
+  "repository": "git@github.com:a2martins/boilerplate-codeshare-react.git",
+  "author": "Alexandre Martins <amartins.dev@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-native",
+    "clean-architecture",
+    "boilerplate"
+  ],
+  "scripts": {
+    "prettier": "prettier --write '**/src/**/*.ts?(x)'"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "prettierrc": "^0.0.0-5"
+  }
+}
